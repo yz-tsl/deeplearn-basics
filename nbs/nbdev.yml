@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deeplearn-basics"
+  site-url: "https://yz-tsl.github.io/deeplearn-basics"
+  description: "deep learning basics"
+  repo-branch: main
+  repo-url: "https://github.com/yz-tsl/deeplearn-basics"
